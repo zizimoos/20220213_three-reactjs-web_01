@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/20220213_three-reactjs-web_01/static/css/main.bd0b6b62.css",
+    "main.js": "/20220213_three-reactjs-web_01/static/js/main.3b6f9840.js",
+    "static/js/787.747aa982.chunk.js": "/20220213_three-reactjs-web_01/static/js/787.747aa982.chunk.js",
+    "static/media/map.jpg": "/20220213_three-reactjs-web_01/static/media/map.5f0d981b22315fd48ca2.jpg",
+    "static/media/blur-layer.webp": "/20220213_three-reactjs-web_01/static/media/blur-layer.14b88556569cc43d61cd.webp",
+    "static/media/mountain3.svg": "/20220213_three-reactjs-web_01/static/media/mountain3.47e30c92fde41f0fd33ecd3fedd641d3.svg",
+    "static/media/mountain1.svg": "/20220213_three-reactjs-web_01/static/media/mountain1.1b4e48027472a314ec0819c12db6c1d5.svg",
+    "static/media/mountain2.svg": "/20220213_three-reactjs-web_01/static/media/mountain2.9a5bf067b6e2ae84de7dc91275c0d868.svg",
+    "static/media/mountain5.svg": "/20220213_three-reactjs-web_01/static/media/mountain5.5d9d098c21f2a3875640c981aa76670e.svg",
+    "index.html": "/20220213_three-reactjs-web_01/index.html",
+    "static/media/mountain4.svg": "/20220213_three-reactjs-web_01/static/media/mountain4.172e854ac941c22fc9163df52ec5c0f1.svg",
+    "static/media/hero-wave.svg": "/20220213_three-reactjs-web_01/static/media/hero-wave.146c53ed7cc1f7137cea089fc1817124.svg",
+    "main.bd0b6b62.css.map": "/20220213_three-reactjs-web_01/static/css/main.bd0b6b62.css.map",
+    "main.3b6f9840.js.map": "/20220213_three-reactjs-web_01/static/js/main.3b6f9840.js.map",
+    "787.747aa982.chunk.js.map": "/20220213_three-reactjs-web_01/static/js/787.747aa982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0b6b62.css",
+    "static/js/main.3b6f9840.js"
+  ]
+}
