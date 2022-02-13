@@ -26,7 +26,7 @@ function App() {
         <ambientLight intensity={0.5} />
         <directionalLight position={[-2, 5, 2]} intensity={1} />
         <Suspense fallback={null}>
-          <Box />
+          <Sphere />
         </Suspense>
       </Canvas>
       <Canvas className="canvas">
@@ -34,7 +34,7 @@ function App() {
         <ambientLight intensity={0.5} />
         <directionalLight position={[-2, 5, 2]} intensity={1} />
         <Suspense fallback={null}>
-          <Sphere />
+          <Box />
         </Suspense>
       </Canvas>
     </Wrapper>

@@ -3,10 +3,8 @@ import styled from "styled-components";
 export default function TextSection() {
   return (
     <Wrapper>
-      <Title>Three.js in React</Title>
-      <Description>
-        Bring your website to life with beautiful 3D objects
-      </Description>
+      <Title>HANSTEP</Title>
+      <Description>We need just one step for the future</Description>
     </Wrapper>
   );
 }
